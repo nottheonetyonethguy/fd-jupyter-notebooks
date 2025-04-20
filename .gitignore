@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+bin
+lib
+share
+CACHEDIR.TAG
+pyvenv.cfg
+media
+__pycache__
+.obsidian
