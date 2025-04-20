@@ -6,3 +6,7 @@
 ### Example
 
 ![](https://i.imgur.com/JpuOq17.gif)
+
+### Launch an instance on Binder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nottheonetyonethguy/fd-jupyter-notebooks/main?urlpath=%2Fdoc%2Ftree%2Ffd_plots.ipynb)
